@@ -1,0 +1,18 @@
+h1{
+    color: darkblue;
+}
+
+#a{
+    background-color: darksalmon;
+}
+
+.part1{
+    background-color:plum;
+    color: blue;
+    margin: 60px 40px 50px 70px ;
+    padding: 70px;
+    background-image:url("https://www.gardeners.com/globalassets/articles/gardening/2023content/8078-chive-flowers-edible.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
